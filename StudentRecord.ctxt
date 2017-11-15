@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StudentRecord
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentRecord\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=scores
+comment1.target=StudentRecord(int[])
+comment2.params=first\ last
+comment2.target=double\ average(int,\ int)
+comment2.text=\r\n\ Finds\ the\ average\ from\ the\ first\ given\ boundary\ to\ the\ second\ given\ boundary\r\n\r\n\ @param\ first\ The\ first\ boundary\r\n\ @param\ last\ The\ second\ boundary\r\n\ @return\ The\ average\ from\ first\ to\ last\r\n
+comment3.params=
+comment3.target=boolean\ hasImproved()
+comment3.text=\r\n\ Determines\ whether\ the\ grades\ have\ improved\r\n\ \r\n\ @return\ Whether\ or\ not\ the\ grades\ improved\r\n
+comment4.params=
+comment4.target=double\ finalAverage()
+comment4.text=\r\n\ Finds\ the\ final\ average\r\n\ \r\n\ @return\ The\ final\ average\r\n
+numComments=5
